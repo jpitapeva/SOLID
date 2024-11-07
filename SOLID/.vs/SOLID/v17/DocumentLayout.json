@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sources\\SOLID\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|c:\\sources\\solid\\solid\\srp\\good_pratice\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|solutionrelative:srp\\good_pratice\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|c:\\sources\\solid\\solid\\srp\\good_pratice\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|solutionrelative:srp\\good_pratice\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|c:\\sources\\solid\\solid\\srp\\good_pratice\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|solutionrelative:srp\\good_pratice\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|c:\\sources\\solid\\solid\\srp\\bad_pratice\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE2E1DD-9F60-46F6-ADD3-2BAB14900CC0}|SOLID.csproj|solutionrelative:srp\\bad_pratice\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\sources\\SOLID\\SOLID\\SRP\\GOOD_PRATICE\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "SRP\\GOOD_PRATICE\\ReportRepository.cs",
+              "ToolTip": "C:\\sources\\SOLID\\SOLID\\SRP\\GOOD_PRATICE\\ReportRepository.cs",
+              "RelativeToolTip": "SRP\\GOOD_PRATICE\\ReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:59:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "C:\\sources\\SOLID\\SOLID\\SRP\\GOOD_PRATICE\\PrintService.cs",
+              "RelativeDocumentMoniker": "SRP\\GOOD_PRATICE\\PrintService.cs",
+              "ToolTip": "C:\\sources\\SOLID\\SOLID\\SRP\\GOOD_PRATICE\\PrintService.cs",
+              "RelativeToolTip": "SRP\\GOOD_PRATICE\\PrintService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:59:13.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\sources\\SOLID\\SOLID\\SRP\\GOOD_PRATICE\\Report.cs",
+              "RelativeDocumentMoniker": "SRP\\GOOD_PRATICE\\Report.cs",
+              "ToolTip": "C:\\sources\\SOLID\\SOLID\\SRP\\GOOD_PRATICE\\Report.cs",
+              "RelativeToolTip": "SRP\\GOOD_PRATICE\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:58:39.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\sources\\SOLID\\SOLID\\SRP\\BAD_PRATICE\\Report.cs",
+              "RelativeDocumentMoniker": "SRP\\BAD_PRATICE\\Report.cs",
+              "ToolTip": "C:\\sources\\SOLID\\SOLID\\SRP\\BAD_PRATICE\\Report.cs",
+              "RelativeToolTip": "SRP\\BAD_PRATICE\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:56:57.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
