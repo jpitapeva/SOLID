@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LSP\BAD_PRATICE\" />
-    <Folder Include="LSP\GOOD_PRATICE\" />
+    <Folder Include="LSP\NewFolder\" />
   </ItemGroup>
 
 </Project>
