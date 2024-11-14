@@ -25,3 +25,27 @@ O OCP afirma que as classes dever estar "aberta para extensção" porém fechada
 -  Redução de Bugs: Minimiza o risco de introduzir erros em funcionalidades já implementadas.
     
 ---
+
+**L(LSP)</br>**
+L — Liskov Substitution Principle (Princípio da substituição de Liskov)</br>
+O LSP afirma que objetos de uma classe derivada devem poder subistituir objetos de sua classe base sem alterar a funcionalidade do programa.</br>
+
+</br>Ex. Bad</br>
+- Classes derivadas que alterar ou invadam funcionalidades da classe base.
+
+</br>Ex. Good</br>
+- Classes derivadas devem manter o comportamento esperado da classe base.
+- Polimorfismo Seguro: Permite que substituições sejam feitas sem quebrar o código.
+
+
+---
+
+
+I — Interface Segregation Principle (Princípio da Segregação da Interface)
+D — Dependency Inversion Principle (Princípio da inversão da dependência)
+
+
+----
+
+Créditos 
+Balta.io
