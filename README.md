@@ -49,7 +49,7 @@ Interface Segregation Principle (Princípio da Segregação da Interface)</br>
 - Interfaces grandes que obrigam classes a implementar métodos irrelevantes para elas.
 
 </br>Ex. Good</br>
-- Interfazes especificas evitam que classes implementem metodos desnecessarios.
+- Interfaces especificas evitam que classes implementem metodos desnecessarios.
 - Classes ficam mais faceis de manter e testar, pois tem interfaces enxutas e focadas.
 
 
