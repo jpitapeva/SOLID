@@ -42,8 +42,21 @@ O LSP afirma que objetos de uma classe derivada devem poder subistituir objetos 
 
 ---
 
+**I(ISP)</br>**
+Interface Segregation Principle (Princípio da Segregação da Interface)</br>
 
-I — Interface Segregation Principle (Princípio da Segregação da Interface)
+</br>Ex. Bad</br>
+- Interfaces grandes que obrigam classes a implementar métodos irrelevantes para elas.
+
+</br>Ex. Good</br>
+- Interfazes especificas evitam que classes implementem metodos desnecessarios.
+- Classes ficam mais faceis de manter e testar, pois tem interfaces enxutas e focadas.
+
+
+
+
+---
+
 D — Dependency Inversion Principle (Princípio da inversão da dependência)
 
 
