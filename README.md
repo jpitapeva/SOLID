@@ -37,12 +37,28 @@ O LSP afirma que objetos de uma classe derivada devem poder subistituir objetos 
 - Classes derivadas devem manter o comportamento esperado da classe base.
 - Polimorfismo Seguro: Permite que substituições sejam feitas sem quebrar o código.
 
+</br>Pergunte-se</br>
+- A classe derivada pode realmente substituir a classe base sem problemas?
 
 ---
 
+**I(ISP)</br>**
+Interface Segregation Principle (Princípio da Segregação da Interface)</br>
 
-I — Interface Segregation Principle (Princípio da Segregação da Interface)
+</br>Ex. Bad</br>
+- Interfaces grandes que obrigam classes a implementar métodos irrelevantes para elas.
+
+</br>Ex. Good</br>
+- Interfaces especificas evitam que classes implementem metodos desnecessarios.
+- Classes ficam mais faceis de manter e testar, pois tem interfaces enxutas e focadas.
+
+
+
+
+---
+
 D — Dependency Inversion Principle (Princípio da inversão da dependência)
+
 
 
 ----
