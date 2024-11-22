@@ -56,8 +56,18 @@ Interface Segregation Principle (Princípio da Segregação da Interface)</br>
 
 
 ---
+**D(DIP)</br>**
+Dependency Inversion Principle (Princípio da inversão da dependência)</br>
+DIP afirma que módumos de alto nível não devem depender de módulos de baixo nível, mas sim de abstrações. Abstrações não devem depender de detalhes; os detalhes é que devem depender das abstrações.
 
-D — Dependency Inversion Principle (Princípio da inversão da dependência)
+</br>Ex. Bad</br>
+- Um módulo de alto nível que depende diretamente de uma classe concreta de baixo nível.
+
+</br>Ex. Good</br>
+- Desacoplamento: Facilita a troca de implementações sem impactar o códdigo de alto nível.
+- Facilidade de teste: Módulos podem ser testados isoladamente usando abstrações.
+
+
 
 
 
