@@ -21,7 +21,7 @@ O OCP afirma que as classes dever estar "aberta para extensão" porém fechadas 
 - Modificar uma classe diretamente para adicionar um novo comportamento.
 
 </br>Ex. Good</br>
--  Facilidade de extenção: Novas funcionalidades podem ser adicionadas sem alterar o código existente.
+-  Facilidade de extensão: Novas funcionalidades podem ser adicionadas sem alterar o código existente.
 -  Redução de Bugs: Minimiza o risco de introduzir erros em funcionalidades já implementadas.
     
 ---
