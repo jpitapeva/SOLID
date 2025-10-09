@@ -15,7 +15,7 @@ Dos mais usados, a classe deve ter somente uma responsabilidade e uma razão par
 
 **O(OCP)</br>**
 Open-Closed Principle (Princípio Aberto-Fechado)</br>
-O OCP afirma que as classes dever estar "aberta para extensção" porém fechadas para modificação.
+O OCP afirma que as classes dever estar "aberta para extensão" porém fechadas para modificação.
 
 </br>Ex. Bad</br>
 - Modificar uma classe diretamente para adicionar um novo comportamento.
