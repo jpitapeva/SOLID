@@ -4,8 +4,8 @@
 Single Responsiblity Principle (Princípio da responsabilidade única)</br>
 Dos mais usados, a classe deve ter somente uma responsabilidade e uma razão para mudar.</br>
 
-<font color='green'>**Ex. Bad**</font>
-- A classe tem lógica de negócio e salva dados no banco de dados;
+</br>**Ex. Bad**</br>
+- A mesma classe tem lógica de negócio e persiste os dados no banco de dados;
 
 </br>**Ex. Good**</br>
 - Classes com divisões claras das responsabilidades(classes especializadas)
