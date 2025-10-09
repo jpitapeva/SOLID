@@ -28,10 +28,10 @@ O OCP afirma que as classes dever estar "aberta para extensção" porém fechada
 
 **L(LSP)</br>**
 L — Liskov Substitution Principle (Princípio da substituição de Liskov)</br>
-O LSP afirma que objetos de uma classe derivada devem poder subistituir objetos de sua classe base sem alterar a funcionalidade do programa.</br>
+O LSP afirma que objetos de uma classe derivada devem poder substituir objetos de sua classe base sem alterar a funcionalidade do programa.</br>
 
 </br>Ex. Bad</br>
-- Classes derivadas que alterar ou invadam funcionalidades da classe base.
+- Classes derivadas que alteram ou invalidam funcionalidades da classe base.
 
 </br>Ex. Good</br>
 - Classes derivadas devem manter o comportamento esperado da classe base.
