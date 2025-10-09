@@ -64,7 +64,7 @@ DIP afirma que módumos de alto nível não devem depender de módulos de baixo 
 - Um módulo de alto nível que depende diretamente de uma classe concreta de baixo nível.
 
 </br>Ex. Good</br>
-- Desacoplamento: Facilita a troca de implementações sem impactar o códdigo de alto nível.
+- Desacoplamento: Facilita a troca de implementações sem impactar o código de alto nível.
 - Facilidade de teste: Módulos podem ser testados isoladamente usando abstrações.
 
 
