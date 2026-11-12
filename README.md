@@ -9,7 +9,7 @@ Dos mais usados, a classe deve ter somente uma responsabilidade e uma razão par
 
 </br>**Ex. Good**</br>
 - Classes com divisões claras das responsabilidades(classes especializadas)
-    - Classe **GeradorRelatorios** foca somente em gerar relatórios, enquando a classe **RelatoriosPersistencia** foca na persistencia dos dados.
+    - Classe **GeradorRelatorios** foca somente em gerar relatórios, enquando a classe **RelatoriosPersistencia** foca na persistência dos dados.
 
 ---
 
