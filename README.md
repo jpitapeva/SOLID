@@ -9,7 +9,7 @@ Dos mais usados, a classe deve ter somente uma responsabilidade e uma razão par
 
 </br>**Ex. Good**</br>
 - Classes com divisões claras das responsabilidades(classes especializadas)
-    - Classe GeradorRelatorios foca somente em gerar relatorios, eqto a classe de RelatoriosPersistencia foca na persistencia dos dados.
+    - Classe **GeradorRelatorios** foca somente em gerar relatórios, enquando a classe **RelatoriosPersistencia** foca na persistencia dos dados.
 
 ---
 
@@ -49,8 +49,8 @@ Interface Segregation Principle (Princípio da Segregação da Interface)</br>
 - Interfaces grandes que obrigam classes a implementar métodos irrelevantes para elas.
 
 </br>Ex. Good</br>
-- Interfaces especificas evitam que classes implementem metodos desnecessarios.
-- Classes ficam mais faceis de manter e testar, pois tem interfaces enxutas e focadas.
+- Interfaces especificas evitam que classes implementem métodos desnecessários.
+- Classes ficam mais fáceis de manter e testar, pois tem interfaces enxutas e focadas.
 
 
 
